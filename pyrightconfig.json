@@ -1,0 +1,10 @@
+{
+    "venvPath": ".",
+    "venv": ".venv",
+    "pythonVersion": "3.11",
+    "pythonPlatform": "Darwin",
+    "include": ["app", "proctoring_service.py"],
+    "exclude": [".venv"],
+    "reportMissingImports": true,
+    "reportMissingModuleSource": false
+}
